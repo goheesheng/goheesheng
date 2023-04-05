@@ -51,9 +51,8 @@ I am passionate about technology and entrepreneurship. My main interests lie in 
 
 ### :fire: My Stats :
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=goheesheng&show_icons=true&theme=vue#gh-light-mode-only&count_private=true" />
-</a> 
+
+[![GitHub Streak](https://streak-stats.demolab.com?username=goheesheng&show_icons=true&theme=vue#gh-light-mode-only&count_private=true)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=goheesheng&ring=07EB00&fire=EB5522&stroke=07EB00&currStreakLabel=3779EB&sideLabels=EB5454)](https://git.io/streak-stats)
 
