@@ -51,7 +51,7 @@ I am passionate about technology and entrepreneurship. My main interests lie in 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=goheesheng&theme=gotham&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&type=png&stroke=EB5454&fire=EB5532&currStreakNum=11B5EB&dates=EBA91B)](https://git.io/streak-stats) [![goheesheng's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=goheesheng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![goheesheng's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=goheesheng&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=goheesheng&theme=gotham&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&type=png&stroke=EB5454&fire=EB5532&currStreakNum=11B5EB&dates=EBA91B)](https://git.io/streak-stats) [![goheesheng's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=goheesheng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![goheesheng's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=goheesheng&show_icons=true&theme=default#gh-light-mode-only&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goheesheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
