@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Senior Computer Science student :student: at Nanyang Technological University from Singapore 
+I am passionate about technology and entrepreneurship. My main interests lie in Cybersecurity, Web3 and Artificial Intelligence (AI).
 
 ---
 
