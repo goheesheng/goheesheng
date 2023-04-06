@@ -52,8 +52,6 @@ I am passionate about technology and entrepreneurship. My main interests lie in 
 
 ---
 
-
-###  My Stats :
 ## ⚡ **Github Stats:**
 [![goheesheng's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=goheesheng&show_icons=true&theme=vue#gh-light-mode-only&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
