@@ -10,7 +10,7 @@
   </a>
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/neelangshu007/count.svg" />
+  <img src="https://profile-counter.glitch.me/goheesheng/count.svg" />
 </p>
   <h1>
   Hey there!
