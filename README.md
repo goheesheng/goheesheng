@@ -59,7 +59,8 @@ I am passionate about technology and entrepreneurship. My main interests lie in 
 [![GitHub Streak](https://streak-stats.demolab.com?user=goheesheng&ring=07EB00&fire=EB5522&stroke=07EB00&currStreakLabel=3779EB&sideLabels=EB5454)](https://git.io/streak-stats)
 
 ## 🤔 **Github Activity Graph:**
-[![goheesheng's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=goheesheng&theme=react-dark)]
+[![goheesheng's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=goheesheng&theme=react-dark)](https://github.com/goheesheng/github-readme-activity-graph)
+
 [![goheesheng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=goheesheng)](https://github.com/goheesheng/github-readme-activity-graph)
 
 
