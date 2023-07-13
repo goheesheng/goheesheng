@@ -60,11 +60,13 @@ I am passionate about technology and entrepreneurship. My main interests lie in 
 
 ## 🤔 **Github Activity Graph:**
 [![goheesheng's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=goheesheng&theme=xcode)]
+[![goheesheng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=goheesheng)](https://github.com/goheesheng/github-readme-activity-graph)
 
 
 
 **goheesheng/goheesheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
